@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif" width="400" height="400">
+<img src="https://wikiimg.tojsiabtv.com/wikipedia/commons/f/f2/Game_of_life_animated_glider.gif" width="200" height="200">
 <h1 align="center">Hi, I'm Diego, a developer who is passionate about technology and development.</h1>
 <h2 align="center">A Full-Stack Web Developer with a passion for creating innovative and user-friendly web applications.</h3>
 </div>
