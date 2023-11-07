@@ -59,7 +59,7 @@
 <a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="70" height="70"/>&nbsp;</a>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,powershell,vim,raspberrypi,arduino,py,html,pug,js,ts,react,redux,astro,vercel,nextjs,regex,threejs,jest,postman,css,sass,bootstrap,tailwind,materialui,svg,aws,dynamodb,nodejs,deno,postgres,sequelize,express,mongodb,graphql,firebase,postman,dart,flutter,electron,kubernetes,docker,webpack,babel,vite,md,discord&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,powershell,vim,raspberrypi,arduino,py,html,pug,js,ts,react,redux,astro,vercel,nextjs,regex,threejs,jest,postman,css,sass,bootstrap,tailwind,materialui,svg,aws,dynamodb,nodejs,deno,postgres,sequelize,express,mongodb,graphql,firebase,dart,flutter,electron,kubernetes,docker,webpack,babel,vite,md,discord&theme=dark)](https://skillicons.dev)
 
 </div>
 
