@@ -1,8 +1,12 @@
 <div id="header" align="center">
-<img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500">
-<h1 align="center">Hi, I'm Diego, a developer who is passionate about technology and development.</h1>
-<h2 align="center">A Full-Stack Web Developer with a passion for creating innovative and user-friendly web applications.</h3>
-</div>
+  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=46&duration=1000&pause=10000&center=true&vCenter=true&random=false&width=435&height=70&lines=Hi%2C+I'm+Diego)](https://git.io/typing-svg)
+  
+  <h2 align="center">A Full-Stack Web Developer with a passion for creating innovative and user-friendly web applications.</h3>
+  </div>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=KernelDiego&label=Profile%20views&color=blue&style=flat" alt="KernelDiego" /></p>
 
 ---
 
@@ -27,7 +31,7 @@
 <div align="center">
 
 # Languages and Tools:
-
+<!--
 <a href="https://es.reactjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="REACT" alt="React" width="70" height="70"/>&nbsp;</a>
 <a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg" title="Typescript" alt="Typescript" width="70" height="70"/>&nbsp;</a>
 <a href="https://developer.mozilla.org/es/docs/Web/JavaScript"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="Javascript" alt="Javascript" width="70" height="70"/>&nbsp;</a>
@@ -49,8 +53,12 @@
 <a href="https://www.gnu.org/software/bash/"><img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="70" height="70"/>&nbsp;</a>
 <a href="https://www.arduino.cc/"><img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="70" height="70"/>&nbsp;</a>
 <a href="https://jquery.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original-wordmark.svg" title="JQuery" alt="JQuery" width="70" height="70"/>&nbsp;</a>
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,git,github,linux,bash,powershell,vim,raspberrypi,arduino,py,html,pug,js,ts,react,redux,astro,vercel,nextjs,regex,threejs,jest,postman,css,sass,bootstrap,tailwind,materialui,svg,aws,dynamodb,nodejs,deno,postgres,sequelize,express,mongodb,graphql,firebase,postman,dart,flutter,electron,kubernetes,docker,webpack,babel,vite,md,discord&theme=dark)](https://skillicons.dev)
 
 </div>
+
 
 ---
 
@@ -58,9 +66,11 @@
 
 # 🔭 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kerneldiego&theme=dark)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kerneldiego&theme=dark)](https://git.io/streak-stats) -->
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api?username=kerneldiego&show_icons=true&theme=radical)](https://github.com/kerneldiego/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KernelDiego&layout=compact&theme=radical)
 
 ## Contact Me:
 
